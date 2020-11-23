@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "test" : {
-    "a" : "a",
+    "a" : { "a" : "b" },
     "b" : "b"
   }
 }
