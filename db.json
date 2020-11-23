@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "test" : {
+  "test/a/b/c" : {
     "a" : { "a" : "b" },
     "b" : "b"
   }
